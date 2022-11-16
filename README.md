@@ -13,8 +13,8 @@
 <br>
 - 🔋  I’m currently learning <b>Nodejs</b><br>
 - 💬 Ask me about anything, I am happy to help)<br>
-- 📫 How to reach me: <a href = "mailto: sirojiddin.ismoilov7181@gmail.com" target="_blank">Send email me</a><br>
-- 😄 My urls: <a href="https://myurls.co/ismailofuz">Link</a><br>
+- 📫 How to reach me: <b>sirojiddin.ismoilov7181@gmail.com</b><br>
+- 😄 My urls: <a href="https://myurls.co/ismailofuz"><b>Link</b></a><br>
 - ⚡️ Fun fact: I use linux🐧
 <br>
 <hr>
