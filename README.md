@@ -1,2 +1,1 @@
-# octocat
-My repository
+#  Hey there, I'm Sirojiddin!
